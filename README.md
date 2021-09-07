@@ -1,1 +1,1 @@
-# MA331
+The sentiment analysis of two books, the wonderful wizard of Oz and Jane Eyre- an Autobiography is done using R.The main aim of this probe is to explore the sentiment scores of both the books and compare the results. The procedure and the libraries used for the analysis are described in the sb20084_ma331_report.pdf
